@@ -1,0 +1,18 @@
+Question 1:
+Helps finding Bugs
+You can go back if sth went wrong
+You can share your content easily
+Working together
+
+Question 2:
+Compare with previous version
+Fastenes process
+
+Question 3:
++ You know logical changes
++ more flexibel
+- you may forget it
+- you don't know when to make a change
+
+Question 4:
+Google Docs doesn't since it would waste memory
