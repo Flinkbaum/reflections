@@ -1,0 +1,3 @@
+Question 1:
+This repository was created, so it is able to make commit and therefore see the history of my files
+->I can track my steps
