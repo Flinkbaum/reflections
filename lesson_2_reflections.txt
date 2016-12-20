@@ -1,3 +1,7 @@
 Question 1:
 This repository was created, so it is able to make commit and therefore see the history of my files
 ->I can track my steps
+
+Question 2:
+Staging area is only temporary. The files are only in till the commit will be performed
+Pro: You have the ability to chosen which files you want to save
