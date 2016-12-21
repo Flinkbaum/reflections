@@ -11,3 +11,6 @@ You can compare the files from the staging area and from the last commit, so you
 
 Question 4:
 Branches can be helpful, if you are not sure whether you should keep the changes
+
+Question 5:
+A diagramm (here: graph) display the branches and shows when they were made. 
