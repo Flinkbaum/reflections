@@ -14,3 +14,7 @@ Branches can be helpful, if you are not sure whether you should keep the changes
 
 Question 5:
 A diagramm (here: graph) display the branches and shows when they were made. 
+
+Question 6:
+If someone merges two branches the code in the different files is combined.
+It is represented in this way, since after a merge only one branch exists
