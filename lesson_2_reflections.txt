@@ -18,3 +18,7 @@ A diagramm (here: graph) display the branches and shows when they were made.
 Question 6:
 If someone merges two branches the code in the different files is combined.
 It is represented in this way, since after a merge only one branch exists
+
+Question 7:
+Pros: Automatic is faster; Git is pretty intelligent at chosing which code to use
+Cons: There may be mistakes
