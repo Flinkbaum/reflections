@@ -1,0 +1,4 @@
+Pros of remote repository:
+  You can see it everywhere with internet access
+  Many people can work on it simultanously
+  You can share your projects
